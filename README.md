@@ -64,7 +64,7 @@ I build ML systems focused on NLP and knowledge graphs. Most of my current work 
 
 ---
 
-DIY · 90WPM typing speed
+Former competitive typist — 90WPM when I'm not debugging.
 
 ---
 
