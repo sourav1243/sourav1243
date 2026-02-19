@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=NLP+·+Knowledge+Graphs+·+Generative+AI;Building%3A+AI+self+improvement+capability;Open+to+work+—+ML+%2F+Data+Science+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=NLP+%C2%B7+Knowledge+Graphs+%C2%B7+Generative+AI;Building%3A+AI+self-improvement+capability;Open+to+work+%E2%80%94+ML+%2F+Data+Science+roles" alt="Typing SVG" />
 
 <br/>
 
