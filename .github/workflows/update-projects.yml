@@ -1,0 +1,36 @@
+name: Auto-Update Featured Projects
+
+on:
+  schedule:
+    - cron: "0 6 1 */3 *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install PyGithub
+
+      - name: Fetch and rank top repos
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+        run: python .github/scripts/update_projects.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || \
+            (git add README.md && \
+             git commit -m "chore: refresh featured projects [skip ci]" && \
+             git push)
