@@ -58,9 +58,9 @@ I build ML systems focused on NLP and knowledge graphs. Most of my current work 
 
 ## Currently
 
-- 🔭 Building: AI self improvement capability
-- 📖 Exploring: agentic LLM systems with tool use and memory
-- 💼 Open to: ML Engineer, Data Scientist, and AI research roles — full-time or internship
+- Building agents that can improve themselves — essentially trying to get LLMs to bootstrap their own capabilities
+- Digging into how knowledge graphs and RAG can work together better than vector search alone
+- Open to ML Engineer, Data Scientist, or AI research roles — full-time or contract
 
 ---
 
