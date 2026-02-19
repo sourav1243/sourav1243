@@ -52,10 +52,6 @@ I build ML systems focused on NLP and knowledge graphs. Most of my current work 
 
 <!-- AUTO-UPDATED EVERY 3 MONTHS BY GITHUB ACTIONS — DO NOT EDIT THIS BLOCK MANUALLY -->
 
-### [Medical-GraphRAG-FactChecker](https://github.com/sourav1243/Medical-GraphRAG-FactChecker)
-AI-powered multilingual medical fact-checking system using RAG and Knowledge Graphs to verify health claims against peer-reviewed medical literature.
-`Python` `Neo4j` `RAG`
-
 <!-- END AUTO-UPDATE BLOCK -->
 
 ---
