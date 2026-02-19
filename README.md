@@ -64,7 +64,11 @@ I build ML systems focused on NLP and knowledge graphs. Most of my current work 
 
 ---
 
-Former competitive typist — 90WPM when I'm not debugging.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&width=300&lines=90WPM;Former+competitive+typist" alt="typing effect" />
+</p>
+
+> "I tried to fine-tune myself once. Turns out I'm just a really expensive autocomplete."
 
 ---
 
